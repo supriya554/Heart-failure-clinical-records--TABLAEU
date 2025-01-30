@@ -48,7 +48,7 @@ Heart failure is a critical medical condition affecting millions globally. This 
    - Sex
    ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/sex%20survival%20status.png)
    - Smoking  
-
+![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/smoking%20survival%20status.png)
 2. **Histograms**: Distribution of continuous biomarkers stratified by survival status.  
 3. **Box Plots**: Age distribution by sex and survival status.  
 4. **Scatter Plot**: Relationship between age, time under care, and survival.  
