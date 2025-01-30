@@ -18,6 +18,7 @@ Heart failure is a critical medical condition affecting millions globally. This 
 ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/total%20females.png)
 ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/total%20individuals.png)
 ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/total%20deaths.png)
+![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/platelets%20survival%20status.png)
 
 **Tools Used**: Tableau, Excel  
 **Dashboard Link**: [https://public.tableau.com/app/profile/supriya.mamillapalli/vizzes] 
