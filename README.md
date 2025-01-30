@@ -50,3 +50,23 @@ Heart failure is a critical medical condition affecting millions globally. This 
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/your-username/heart-failure-analysis.git
+   Dataset & Assets:
+
+Dataset: heart_failure_clinical_records_dataset.csv
+
+Tableau Workbook: Heart failure clinical records TABLEAU.twb (or .twbx)
+
+Exported Visuals: PDF and PNG files for quick reference.
+
+View Dashboard:
+
+Open the Tableau workbook locally or publish it to Tableau Public.
+
+Use the Sex filter to toggle between male/female survival trends.
+
+🔍 Key Insights
+Sex Disparity: Males had a higher survival rate (44.15%) than females (23.75%).
+
+Diabetes Impact: 28.43% of diabetic patients survived vs. 39.46% of non-diabetics.
+
+Critical Biomarkers: Lower ejection fraction and elevated serum creatinine correlated with higher mortality
