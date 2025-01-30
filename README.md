@@ -16,7 +16,7 @@ Heart failure is a critical medical condition affecting millions globally. This 
 - Provide KPIs like total patients, deaths, demographics, and average age.  
 
 **Tools Used**: Tableau, Excel  
-**Dashboard Link**: [Tableau Public](https://public.tableau.com/) (Upload your workbook and link here)  
+**Dashboard Link**: [https://public.tableau.com/app/profile/supriya.mamillapalli/vizzes] 
 
 ---
 
