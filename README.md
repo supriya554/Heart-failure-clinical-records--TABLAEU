@@ -1,7 +1,6 @@
 # Heart-failure-clinical-records--TABLAEU
 Developed an interactive Tableau dashboard to analyze heart failure trends, identify risk factors, and predict hospital readmissions. Integrated EHR data, used dynamic filters, and implemented trend analysis for real-time monitoring. Helped reduce readmission rates by 15% and optimize hospital resources.
 # Heart Failure Clinical Records Analysis Dashboard
- ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Anaemia%20survival%20status.png)
 
 ![Dashboard Preview](./sex%20survival%20status.png)
 
@@ -11,7 +10,7 @@ An interactive Tableau dashboard analyzing clinical features influencing heart f
 
 ## 📌 Project Overview  
 Heart failure is a critical medical condition affecting millions globally. This dashboard explores a clinical dataset to:  
-- Visualize survival rates across categorical variables (e.g., diabetes, smoking, sex). ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Diabetes%20survival%20status.png)
+- Visualize survival rates across categorical variables (e.g., diabetes, smoking, sex). 
 - Analyze continuous biomarkers (e.g., creatinine levels, ejection fraction) using histograms.  
 - Highlight relationships between age, time under care, and survival status.  
 - Provide KPIs like total patients, deaths, demographics, and average age.       
