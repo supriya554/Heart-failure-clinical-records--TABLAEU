@@ -31,7 +31,8 @@ Heart failure is a critical medical condition affecting millions globally. This 
 - **Categorical Variables**:  
   - Anaemia, Diabetes, High Blood Pressure, Sex, Smoking  
 - **Continuous Variables**:  
-  - Age, Creatinine Phosphokinase, Ejection Fraction, Platelets, Serum Creatinine, Serum Sodium, Time  
+  - Age, Creatinine Phosphokinase, Ejection Fraction, Platelets, Serum Creatinine, Serum Sodium, Time
+ ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/ejection%20fraction%20survival%20status.png)
 
 ---
 
