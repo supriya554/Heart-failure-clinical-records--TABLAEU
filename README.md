@@ -43,7 +43,8 @@ Heart failure is a critical medical condition affecting millions globally. This 
   ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Anaemia%20survival%20status.png)
    - Diabetes
    ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Diabetes%20survival%20status.png)
-   - High Blood Pressure  
+   - High Blood Pressure
+   ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Blood%20pressure%20survival%20status.png)
    - Sex  
    - Smoking  
 
