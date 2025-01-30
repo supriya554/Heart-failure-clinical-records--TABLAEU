@@ -64,8 +64,7 @@ Open the Tableau workbook locally or publish it to Tableau Public.
 
 Use the Sex filter to toggle between male/female survival trends.
 
-🔍 ### Key Insights 
-Sex Disparity: Males had a higher survival rate (44.15%) than females (23.75%).
+### Key Insights Sex Disparity: Males had a higher survival rate (44.15%) than females (23.75%).
 
 Diabetes Impact: 28.43% of diabetic patients survived vs. 39.46% of non-diabetics.
 
