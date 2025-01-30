@@ -13,7 +13,7 @@ An interactive Tableau dashboard analyzing clinical features influencing heart f
 Heart failure is a critical medical condition affecting millions globally. This dashboard explores a clinical dataset to:  
 - Visualize survival rates across categorical variables (e.g., diabetes, smoking, sex). ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Diabetes%20survival%20status.png)
   ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/total%20deaths.png)
-  ![image alt](
+
 - Analyze continuous biomarkers (e.g., creatinine levels, ejection fraction) using histograms.  
 - Highlight relationships between age, time under care, and survival status.  
 - Provide KPIs like total patients, deaths, demographics, and average age.      ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/total%20females.png)
