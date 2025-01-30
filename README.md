@@ -41,7 +41,8 @@ Heart failure is a critical medical condition affecting millions globally. This 
 1. **Interactive Donut Charts**: Survival rates by:  
    - Anaemia
   ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Anaemia%20survival%20status.png)
-   - Diabetes  
+   - Diabetes
+   ![image alt](https://github.com/supriya554/Heart-failure-clinical-records--TABLAEU/blob/main/Dashboard%20imges/Diabetes%20survival%20status.png)
    - High Blood Pressure  
    - Sex  
    - Smoking  
